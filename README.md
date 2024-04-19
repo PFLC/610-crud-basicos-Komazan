@@ -63,5 +63,10 @@ Esta aplicación es una demostración básica y no implementa medidas avanzadas 
 
 ---
 
+Una aplicación CRUD en PHP te permite crear, leer, actualizar y eliminar datos de una base de datos. 
+
+Tailwind CSS es un framework de CSS que te permite construir interfaces de usuario de manera rápida y eficiente mediante la aplicación de clases directamente en tu HTML.
+
+
 Siéntete libre de contribuir a este proyecto o sugerir mejoras. Para cualquier consulta o problema, por favor abre un issue en este repositorio.
 
